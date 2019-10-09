@@ -7,14 +7,12 @@
 
 # Site settings
 title:       Type
-email:       ''
-description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+email:       'ngothixuan.apc7@gmail.com'
+description: 'Blogging my life'
+baseurl:     ''
+url:         'https://ngo-xuan.github.io/'
+instagram:   'https://www.instagram.com/Im.xuan.ngo/'
+facebook:    'https://www.facebook.com/comet.mic'
 
 theme: jekyll-theme-cayman
 markdown:  kramdown
