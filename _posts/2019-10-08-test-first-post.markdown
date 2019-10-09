@@ -2,7 +2,7 @@
 layout: post
 title: Test First Post
 author: '@suho'
-feature: true
+featured: true
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/1.jpg'
 ---
