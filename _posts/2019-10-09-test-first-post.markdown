@@ -1,0 +1,10 @@
+---
+layout: post
+title: Test First Post
+tags: [frontpage, jekyll, blog]
+image: '/images/posts/1.jpg'
+---
+
+This is a test post
+
+# Header
