@@ -7,4 +7,6 @@ image: '/images/posts/1.jpg'
 
 This is a test post
 
+![Image](/images/posts/1.jpg)
+
 # Header
