@@ -16,6 +16,7 @@ github:      ''
 instagram:   ''
 facebook:    ''
 
+theme: jekyll-theme-cayman
 markdown:  kramdown
 permalink: pretty
 paginate:  10
@@ -46,4 +47,3 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
-theme: jekyll-theme-cayman
